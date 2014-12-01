@@ -3,11 +3,6 @@
 //
 //   Copyright (C) 2001 Herf Consulting LLC.  All rights reserved.
 //
-//   Please do not redistribute this source code.
-//
-//	 This source is provided "as-is," and Herf Consulting LLC will not be liable
-//   for any damages resulting from its use or misuse.
-//
 // ================================================================================================
 
 #include <stdio.h>
